@@ -1,0 +1,16 @@
+.li-link {
+    padding: 10px 0;
+}
+
+.list-phim{
+    font-size: 30px;
+    list-style: none;
+}
+
+.li-phim {
+    font-size: 20px;
+}
+
+.li-phim a {
+    text-decoration: none;
+}
